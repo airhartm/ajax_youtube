@@ -1,0 +1,42 @@
+/* Navigation Section */
+#videoWrapper {
+    background-color: #fff;
+    /* z-index: 9999; */
+    display: block;
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+}
+.videoAbout {
+    float: left;
+    display: inline-block;
+    width: 450px;
+}
+.videoAbout p {
+    font-size:12pt;
+    text-align:left;
+    margin-top: -0.5em;
+}
+.videoThumbnail {
+    margin-top: -0.5em;
+    float: left;
+    display: block;
+    width: 120px;
+    margin-left: 0px;
+    margin-right: 1em;
+}
+.videoDate {
+}
+.break {
+    clear: all;
+    display: block;
+    float: none;
+    margin-top:2em;
+}
+hr {
+    border: none;
+    height: 1px;
+    color:#e6e6e6;
+    background-color:#e6e6e6; /* Modern Browsers */
+    margin-bottom:1em;
+}
